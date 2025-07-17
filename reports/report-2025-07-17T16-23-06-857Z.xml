@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+  <files>1130</files>
+  <directories>333</directories>
+  <totalSize>35160887</totalSize>
+  <extensions>
+    <extension name="" count="542"></extension>
+    <extension name=".sample" count="14"></extension>
+    <extension name=".xml" count="4"></extension>
+    <extension name=".iml" count="1"></extension>
+    <extension name=".ts" count="268"></extension>
+    <extension name=".md" count="37"></extension>
+    <extension name=".json" count="52"></extension>
+    <extension name=".js" count="142"></extension>
+    <extension name=".mjs" count="8"></extension>
+    <extension name=".map" count="46"></extension>
+    <extension name=".cts" count="5"></extension>
+    <extension name=".mts" count="6"></extension>
+    <extension name=".cjs" count="1"></extension>
+    <extension name=".stflow" count="1"></extension>
+    <extension name=".txt" count="2"></extension>
+    <extension name=".csv" count="1"></extension>
+  </extensions>
+</report>
