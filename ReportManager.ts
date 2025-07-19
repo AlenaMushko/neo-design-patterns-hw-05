@@ -47,7 +47,11 @@ export class ReportManager {
             fs.writeFileSync(filePath, report);
             console.log(`Report successfully saved to ${filePath}`);
         } catch (error) {
-            console.error("Error generating report:", error.message);
+            if (error instanceof Error) {
+                console.error("Error:", error.message);
+            } else {
+                console.error("Unknown error:", error);
+            }
         }
     }
 }
